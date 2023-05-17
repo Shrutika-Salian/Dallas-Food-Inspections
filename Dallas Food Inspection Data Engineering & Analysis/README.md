@@ -9,6 +9,6 @@ Also, managed descripancies related to addresses which were composed in the same
 
 ♦ Depicted actionable insights on PowerBI and Tableau to measure Foods places having violations over a period of time, Grades and scores of food places <br />
 
-Dimensional Model:
+Dimensional Model:<br />
 <img width="844" alt="image" src="https://github.com/Shrutika-Salian/Dallas-Food-Inspections/assets/91072559/e37af6f3-2c19-445f-bf79-f338207db2d7">
 
