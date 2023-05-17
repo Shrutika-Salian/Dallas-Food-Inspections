@@ -7,7 +7,7 @@ Also, managed descripancies related to addresses which were composed in the same
 
 ♦ Violation codes and descriptions changed over time therefore had to inculcate SCD tracking to keep track of the same.
 
-♦ Depicted actionable insights on PowerBI and Tableau to measure Foods places having violations over a period of time, Grades and scores of food places 
+♦ Depicted actionable insights on PowerBI and Tableau to measure Foods places having violations over a period of time, Grades and scores of food places <br />
 
 Dimensional Model:
 <img width="844" alt="image" src="https://github.com/Shrutika-Salian/Dallas-Food-Inspections/assets/91072559/e37af6f3-2c19-445f-bf79-f338207db2d7">
